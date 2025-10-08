@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "6315e29d-1e60-4bc0-9cb1-681991ebcf41",
+  "name": "maps/white-grove/white-grove-tiles",
+  "symbol": "bg_maps_white_grove_white_g",
+  "width": 9,
+  "height": 6,
+  "imageWidth": 72,
+  "imageHeight": 48,
+  "filename": "maps/white-grove/white-grove-tiles.png",
+  "tileColors": ""
+}

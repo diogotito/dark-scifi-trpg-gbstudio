@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "03596f64-de21-43bf-b39e-4c183b6180ea",
+  "name": "gbstudio-white-grove-tiles",
+  "symbol": "tileset_gbstudio_white_grov",
+  "width": 9,
+  "height": 7,
+  "imageWidth": 72,
+  "imageHeight": 56,
+  "filename": "gbstudio-white-grove-tiles.png"
+}
