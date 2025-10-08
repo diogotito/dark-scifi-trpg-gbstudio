@@ -1,0 +1,3 @@
+High:	#07ffa5
+Light:	#d6b531
+Dark:	#736b42

@@ -1,0 +1,3 @@
+High:	#ff9439
+Light:	#ef214a
+Dark:	#6b3152

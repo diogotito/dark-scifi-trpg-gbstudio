@@ -1,0 +1,3 @@
+High:	#c63173
+Light:	#947ba5
+Dark:	#393142

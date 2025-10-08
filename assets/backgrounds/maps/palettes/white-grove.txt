@@ -1,0 +1,37 @@
+TODO redo valores
+
+grove_ui:
+1:	ffffff
+2:	7b53b2
+3:	5c008a
+4:	000000
+
+grove_pillar:
+1:	feffec
+2:	c9c4b5
+3:	978d7d
+4:	25042c
+
+grove_pillar_alt:
+1:	beedcb
+2:	c9c4b5
+3:	978d7d
+4:	25042c
+
+grove_pillar_alt_top_l:
+1:	feffec
+2:	c9c4b5
+3:	beedcb
+4:	25042c
+
+grove_pillar_alt_top_r:
+1:	feffec
+2:	978d7d
+3:	beedcb
+4:	25042c
+
+grove_sand:
+1:	421d45
+2:	2e0042
+3:	110029
+4:	25042c
