@@ -1,0 +1,42 @@
+{
+  "_resourceType": "scene",
+  "id": "318a73d1-75f6-4aee-a414-f2704d7355d9",
+  "_index": 1,
+  "name": "white grove",
+  "backgroundId": "3b81c5a4-8179-4bbb-958f-4f81ebd2b3db",
+  "tilesetId": "dd67678a-bf7c-4747-bbe4-9b54150f14aa",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "ebd88c32-91cc-46c9-8eb1-cbe4b714fed4",
+    "585d1726-a3f6-449a-845b-f5f0b3c5c901",
+    "59ca0acc-7c64-4557-b6c4-d50ec8ef1178",
+    "7d187620-526f-48e9-a530-ba961bfcf85c",
+    "3a51e186-ce17-4d4d-ba99-c4af41e3b834",
+    "06cfeda9-90a9-43c9-b1dd-fdc4450eed6b"
+  ],
+  "spritePaletteIds": [
+    "30c304b4-6672-41eb-8ba2-98beec2ed42e",
+    "a03cb30f-fe12-4fd4-8b80-b6b94e708d87"
+  ],
+  "collisions": "0067+0f2+002+0f2+002+0f2+002+0f2+006+0f2+002+0f2+002+0f2+002+0f2+0056+0f2+002+0f2+002+0f2+002+0f2+006+0f2+002+0f2+002+0f2+002+0f2+0067+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 520,
+  "y": 56,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "e32fa02a-d4c7-494b-95f7-9be08f1b30b6",
+        "__comment": true
+      },
+      "id": "3f78586e-a1d4-4fa6-9517-5fc576939378"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "6c10996b-8887-4709-8cad-575138a7b242"
+}
