@@ -8,5 +8,6 @@
   "imageWidth": 72,
   "imageHeight": 48,
   "filename": "maps/white-grove/white-grove-tiles.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

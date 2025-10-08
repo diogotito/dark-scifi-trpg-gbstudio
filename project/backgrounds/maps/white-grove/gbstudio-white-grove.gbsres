@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f7258c22-7083-4c9b-9475-2fa60125854a",
+  "name": "maps/white-grove/gbstudio-white-grove",
+  "symbol": "bg_maps_white_grove_gbstudi",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "maps/white-grove/gbstudio-white-grove.png",
+  "tileColors": "",
+  "autoColor": false
+}

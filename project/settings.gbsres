@@ -1,8 +1,8 @@
 {
   "_resourceType": "settings",
   "startSceneId": "318a73d1-75f6-4aee-a414-f2704d7355d9",
-  "startX": 7,
-  "startY": 0,
+  "startX": 1,
+  "startY": 2,
   "startMoveSpeed": 1,
   "startAnimSpeed": 15,
   "startDirection": "down",
@@ -20,8 +20,8 @@
     "default-ui"
   ],
   "defaultSpritePaletteIds": [
-    "a03cb30f-fe12-4fd4-8b80-b6b94e708d87",
-    "50e52ad3-5a89-4283-aa74-1830d0db0e31",
+    "default-sprite",
+    "default-sprite",
     "default-sprite",
     "default-sprite",
     "default-sprite",
@@ -35,7 +35,7 @@
   "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
   "defaultCharacterEncoding": "",
   "defaultPlayerSprites": {
-    "TOPDOWN": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
+    "TOPDOWN": "b4842389-da51-4c32-8b8e-d948c3883e24",
     "PLATFORM": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
     "ADVENTURE": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
     "SHMUP": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
@@ -82,7 +82,7 @@
     "Shift"
   ],
   "colorMode": "color",
-  "generateDebugFilesEnabled": false,
+  "generateDebugFilesEnabled": true,
   "compilerPreset": 3000,
   "scriptEventPresets": {},
   "scriptEventDefaultPresets": {}
