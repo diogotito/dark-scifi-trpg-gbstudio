@@ -5,7 +5,7 @@
   "symbol": "sprite_actors_gbstudio_legs",
   "numFrames": 1,
   "filename": "actors/gbstudio-legs.png",
-  "checksum": "1fc6beed49b25b868ab2a205f382cc062f0cd095",
+  "checksum": "06283b360f43fd62f42e41761189329a61adc8eb",
   "width": 16,
   "height": 16,
   "states": [
@@ -30,7 +30,7 @@
                   "flipX": false,
                   "flipY": false,
                   "palette": 0,
-                  "paletteIndex": 0,
+                  "paletteIndex": 1,
                   "objPalette": "OBP0",
                   "priority": false
                 },
@@ -43,7 +43,7 @@
                   "flipX": false,
                   "flipY": false,
                   "palette": 0,
-                  "paletteIndex": 0,
+                  "paletteIndex": 1,
                   "objPalette": "OBP0",
                   "priority": false
                 }

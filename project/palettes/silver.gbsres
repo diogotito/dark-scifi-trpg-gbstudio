@@ -1,11 +1,11 @@
 {
   "_resourceType": "palette",
   "id": "a03cb30f-fe12-4fd4-8b80-b6b94e708d87",
-  "name": "dude-palette",
+  "name": "silver",
   "colors": [
-    "50F818",
-    "afafaf",
-    "50F818",
-    "935229"
+    "F80000",
+    "98C8D0",
+    "000000",
+    "182858"
   ]
 }

@@ -18,7 +18,10 @@
   ],
   "spritePaletteIds": [
     "30c304b4-6672-41eb-8ba2-98beec2ed42e",
-    "a03cb30f-fe12-4fd4-8b80-b6b94e708d87"
+    "a03cb30f-fe12-4fd4-8b80-b6b94e708d87",
+    "50e52ad3-5a89-4283-aa74-1830d0db0e31",
+    "2e8dd6dc-6ccd-43d4-8a54-18be26e6c3c8",
+    "9862dce4-7fdf-4062-ab9e-cc23f4427be5"
   ],
   "collisions": "0f15+0012+0f2+0012+0f2+0012+0f2+0012+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+002+0f2+0012+0f2+0012+0f16+0012+0f15+",
   "autoFadeSpeed": 1,
@@ -29,8 +32,9 @@
     {
       "command": "EVENT_MUSIC_PLAY",
       "args": {
-        "musicId": "e32fa02a-d4c7-494b-95f7-9be08f1b30b6",
-        "__comment": true
+        "musicId": "b5a04516-fdb3-4fc9-b293-a90da3234538",
+        "__comment": false,
+        "__collapse": false
       },
       "id": "3f78586e-a1d4-4fa6-9517-5fc576939378"
     }
@@ -38,5 +42,6 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "playerSpriteSheetId": "b4842389-da51-4c32-8b8e-d948c3883e24"
+  "playerSpriteSheetId": "b4842389-da51-4c32-8b8e-d948c3883e24",
+  "autoFadeEventCollapse": false
 }
